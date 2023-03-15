@@ -1,0 +1,19 @@
+repo
+git으로 관리되는 프로젝트
+
+commit 유의미한 변화
+
+로컬 repo
+내 컴퓨터에 저장되어 있는 리포지토리
+
+원격 repo
+git hub처럼 다른 곳 에서 접속할 수 있는 저장공간
+
+tracking 원격  <  연결  > 로컬 repo
+
+push : 로컬 repo의 commit들을 원격 reop에 반영
+pull: 원격 repo의 commit들을 로컬 reop에 반영
+clone : 소스코드 가져오기
+
+충돌 방지를위한 git 작업
+pull > commit > push
